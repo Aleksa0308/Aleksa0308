@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **aleksas0308@gmail.com**
 
-#Some of my projects:
+**Some of my projects:**
 - <a href="https://github.com/Aleksa0308/Entr-Hub-Full-Stack-Project">Full stack project (Express, Vue, JWT, mysql...)<a/>
 - News website (Java backend, Vue frontend):
   - <a href="https://github.com/Aleksa0308/news-frontend">Frontend <a/>
