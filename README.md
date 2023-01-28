@@ -5,6 +5,13 @@
 
 - 📫 How to reach me **aleksas0308@gmail.com**
 
+#Some of my projects:
+- <a href="https://github.com/Aleksa0308/Entr-Hub-Full-Stack-Project">Full stack project (Express, Vue, JWT, mysql...)<a/>
+- News website (Java backend, Vue frontend):
+  - <a href="https://github.com/Aleksa0308/news-frontend">Frontend <a/>
+  - <a href="https://github.com/Aleksa0308/News-backend">Backend <a/>
+- <a href="https://github.com/Aleksa0308/-JFLEX-JCUP-Programming-Language">Minecraft Inspired programming language (JCUP, Jflex)<a/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aleksa-stojanovic0308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleksa-stojanovic0308" height="30" width="40" /></a>
