@@ -6,10 +6,8 @@
 - 📫 How to reach me **aleksas0308@gmail.com**
 
 **Some of my projects:**
+- <a href="https://github.com/Aleksa0308/TehnickiPregledWebService"> Tehnicki Pregled Web Service (React, Express, Charts, MySql...)
 - <a href="https://github.com/Aleksa0308/Entr-Hub-Full-Stack-Project">Full stack project (Express, Vue, JWT, mysql...)<a/>
-- News website (Java backend, Vue frontend):
-  - <a href="https://github.com/Aleksa0308/news-frontend">Frontend <a/>
-  - <a href="https://github.com/Aleksa0308/News-backend">Backend <a/>
 - <a href="https://github.com/Aleksa0308/-JFLEX-JCUP-Programming-Language">Minecraft Inspired programming language (JCUP, Jflex)<a/>
 
 <h3 align="left">Connect with me:</h3>
