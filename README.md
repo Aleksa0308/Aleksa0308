@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aleksa Stojanovic</h1>
 <h3 align="center">I am a computer science student with a passion for web development and web design.</h3>
 
-- 🌱 I’m currently learning **typescript**
+- 🌱
 
 - 📫 How to reach me **aleksas0308@gmail.com**
 
