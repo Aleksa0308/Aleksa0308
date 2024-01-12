@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aleksa Stojanovic</h1>
-<h3 align="center">I am a computer science student with a passion for web development and web design.</h3>
+<h3 align="center">A Full Stack Software Developer driven by a deep enthusiasm for innovation and a constant hunger for learning.</h3>
 
-- 🌱
+- 🌱 
 - 📫 How to reach me **aleksas0308@gmail.com**
 
 **Some of my projects:**
 - <a href="https://github.com/Aleksa0308/TehnickiPregledWebService"> Tehnicki Pregled Web Service (React, Express, Charts, MySql...)
-- <a href="https://github.com/Aleksa0308/Entr-Hub-Full-Stack-Project">Full stack project (Express, Vue, JWT, mysql...)<a/>
+- <a href="https://github.com/Aleksa0308/Entr-Hub-Full-Stack-Project">Full stack project (Express, Vue, JWT, MySQL...)<a/>
 - <a href="https://github.com/Aleksa0308/-JFLEX-JCUP-Programming-Language">Minecraft Inspired programming language (JCUP, Jflex)<a/>
 
 <h3 align="left">Connect with me:</h3>
