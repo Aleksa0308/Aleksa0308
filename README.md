@@ -16,6 +16,8 @@
   </a>  
 </p>
 
+<h4 align="center"><b>aleksas0308@gmail.com</b></h3>
+
 
 ## Technologies and Languages 🛠️
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
