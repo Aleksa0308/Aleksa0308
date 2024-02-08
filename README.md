@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Aleksa Stojanovic </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=16&center=true&vCenter=true&width=600&height=80&lines=Full-Stack+Developer"></a>
 </p>
 
 ## Let's connect 🤝
@@ -53,9 +53,11 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aleksa0308&repo=Parallel-Programing-Conwoy-s-Game-of-Life&theme=tokyonight" />
   </a> 
 </p>
-
+<!--  
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
-
+-->
+<!-- 
 <a href="https://github.com/Aleksa0308/">
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aleksa0308&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Aleksa0308"/>
-</a>
+</a>  
+-->
