@@ -27,6 +27,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -39,22 +40,24 @@
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 <h5> + many more! </h5>
-
-## Projects 📝
+ 
+<!-- ## Projects 📝 -->
+<!--
 <p align ="center">
   <a href="https://github.com/Aleksa0308/user-machine-management">
-    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aleksa0308&repo=user-machine-management&theme=tokyonight" />
   </a>  
   <a href="https://github.com/Aleksa0308/TehnickiPregledWebService">
-    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aleksa0308&repo=TehnickiPregledWebService&theme=tokyonight" />
   </a>  
   <a href="https://github.com/Aleksa0308/Parallel-Programing-Conwoy-s-Game-of-Life">
-    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aleksa0308&repo=Parallel-Programing-Conwoy-s-Game-of-Life&theme=tokyonight" />
   </a> 
 </p>
+
 <!--  
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 -->
